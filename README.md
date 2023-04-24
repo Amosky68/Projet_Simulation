@@ -29,5 +29,5 @@ The following list represents options that we can Enable or Disable,
 - Up/Down | Increase or Decrease Simulation speed ( more precision )
 -    A    | Create a new object 
 ## Additional features :
-You can click on all objects to see their characteristics 
+You can click on all objects to see their characteristics  
 You can zoom and move the camera with the mouse buttons
