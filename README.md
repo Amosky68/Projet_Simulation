@@ -11,7 +11,7 @@
 #### Languages : 
 - French 
 - English
-#### Video Settings :
+#### <ins>Video Settings :</ins>
 The following list represents options that we can Enable or Disable,
 
 - Textures ( Draw detailed texture instead of a single color if the object has one )
