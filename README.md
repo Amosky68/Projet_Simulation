@@ -7,8 +7,8 @@
 - A simulation without any object
 - A simulation showing 50 random objects orbiting each other
 
-### Settings Options :
-#### Languages : 
+### <ins>Settings Options :</ins>
+#### <ins>Languages : </ins>
 - French 
 - English
 #### <ins>Video Settings :</ins>
@@ -22,7 +22,7 @@ The following list represents options that we can Enable or Disable,
 - Trajectories display ( Display the path taken by all the objects )
 - Visible object ( Draw a colored dot if the object is too small )
 
-#### Keybord Controls :
+#### <ins>Keybord Controls :</ins>
 -    P    | simulation choice 
 -  Escape | exit the program
 -  Space  | pause / play the simulation 
