@@ -7,7 +7,7 @@
 - A simulation without any object
 - A simulation showing 50 random objects orbiting each other
 
-### <ins>Settings Options :</ins>
+### <u>Settings Options :</u>
 #### <ins>Languages : </ins>
 - French 
 - English
